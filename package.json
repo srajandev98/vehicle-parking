@@ -1,13 +1,14 @@
 {
-  "name": "squadstack",
+  "name": "vehicle_parking",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vehicle Parking",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Srajan Gupta",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.7.2",
